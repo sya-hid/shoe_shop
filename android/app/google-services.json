@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43658910612",
+    "project_id": "shamo-ecommerce",
+    "storage_bucket": "shamo-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43658910612:android:b89c46620851b57d35cd81",
+        "android_client_info": {
+          "package_name": "com.programinfinity.shoe_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43658910612-s1rknc1fb0p3lcb9g8h7jn6jc1psv5ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmvD1BsgPUEk84Uiv2yNHWH6GUPWvZNI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43658910612-s1rknc1fb0p3lcb9g8h7jn6jc1psv5ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
