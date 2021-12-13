@@ -26,8 +26,10 @@ class ProductTile extends StatelessWidget {
               borderRadius: BorderRadius.circular(20),
               child: Image.network(
                 product.galleries[0].url,
-                width: 120,
-                height: 120,
+                width: 100,
+                height: 100,
+                // width: 120,
+                // height: 120,
                 fit: BoxFit.cover,
               ),
             ),

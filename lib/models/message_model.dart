@@ -16,7 +16,7 @@ class MessageModel {
      this.userName,
      this.userImage,
      this.isFromUser,
-     this.product,
+     this.product, 
      this.createdAt,
      this.updatedAt,
   });

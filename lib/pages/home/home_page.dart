@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
                 children: [
                   Text('Hallo, ${user.name}',
                       style: primaryTextStyle.copyWith(
-                          fontSize: 24, fontWeight: semiBold)),
+                          fontSize: 20, fontWeight: semiBold)),
                   Text(
                     '@${user.username}',
                     style: subtitleTextStyle.copyWith(fontSize: 16),

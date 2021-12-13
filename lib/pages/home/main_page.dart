@@ -8,7 +8,6 @@ import 'package:shoe_shop/providers/page_provider.dart';
 import 'package:shoe_shop/theme.dart';
 
 class MainPage extends StatefulWidget {
-  // const MainPage({ Key? key }) : super(key: key);
   @override
   _MainPageState createState() => _MainPageState();
 }
@@ -43,6 +42,7 @@ class _MainPageState extends State<MainPage> {
               onTap: (value) {
                 pageProvider.currentIndex = value;
               },
+              
               type: BottomNavigationBarType.fixed,
               items: [
                 BottomNavigationBarItem(
